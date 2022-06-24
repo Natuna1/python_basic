@@ -1,2 +1,2 @@
 members = ["Bob", "Tom", "Ken"]
-print(members[1])
+print(members[:2])
