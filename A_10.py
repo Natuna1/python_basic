@@ -5,7 +5,5 @@
 """
 import random
 
-
-def dice():
-    random.randint(1, 6)
-    print(dice())
+dice = random.randint(1, 6)
+print(dice)
